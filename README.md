@@ -35,3 +35,6 @@ A full-stack URL Shortener application that not only generates short links from 
 - Stores all user-specific URL data in MongoDB
 - Automatically redirects shortened URLs to the original long link
 - Ensures only authorized users can access and manage their links
+
+![image](https://github.com/user-attachments/assets/4a932396-881d-4930-863e-73d918196d58)
+
